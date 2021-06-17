@@ -1,0 +1,14 @@
+FCFS : 38 180 130 10 50 15 190 90 150 
+total head movement : 804 
+SSTF : 130130 150 180 190 90 50 38 15 10 
+total head movement : 250 
+SCAN : 120 90 50 38 15 10 0 130 150 180 190 
+total head movement : 310 
+C_SCAN : 120 90 50 38 15 10 0 200 190 180 150 130 
+total head movement : 390 
+C_LOOK : 120 90 50 38 15 10 190 180 150 130 
+total head movement : 350 
+NewProposed : 0 10 15 38 50 90 130 150 180 190 
+total head movement : 190
+
+best THM is : 190
